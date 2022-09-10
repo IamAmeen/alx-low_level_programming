@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *
- * Main - Determines if a number is negative, postitive or zero
+ * main - Determines if a number is negative, postitive or zero
  *
  * Return: Always (0) Success
  */
@@ -15,7 +14,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	if (n > 0)
-	{ 
+	{
 		printf("%d is positive\n", n);
 	}
 	else if (n == 0)
