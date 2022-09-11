@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main - print numbers of base (16) 0-9 and a-f
+ * main - print numbers of base (0-9) and a-f
  * 
  * Return: Always (0) Success
  */
+
 int main(void)
 {
 	int i;
@@ -12,6 +13,7 @@ int main(void)
 	{
 		putchar(i);
 	}
+	
 	for (i = 97; i < 103; i++)
 	{
 		putchar(i);
