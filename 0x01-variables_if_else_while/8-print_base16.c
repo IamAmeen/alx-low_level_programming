@@ -4,8 +4,7 @@
  * 
  * Return: Always (0) Success
  */
-
-iint main(void)
+int main(void)
 {
 	int i;
 
@@ -13,12 +12,10 @@ iint main(void)
 	{
 		putchar(i);
 	}
-	
 	for (i = 97; i < 103; i++)
-		{
-			putchar(i);
-		}
-	
+	{
+		putchar(i);
+	}
 	putchar('\n');
 	return (0);
 }
