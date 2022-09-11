@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - program to print all numbers zero to ten
  *
@@ -7,7 +8,7 @@
 int main(void)
 {
 	int i;
-	
+
 	for (i = 0; i < 10; i++)
 	{
 		printf("%d", i);
