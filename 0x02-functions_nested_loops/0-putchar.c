@@ -7,12 +7,15 @@
 
 int main (void)
 {
-	char *i = "_putchar";
-	while (*i)
-	{
-		putchar(*i);
-		i++;
-	}
-	putchar('\n');
-	return (0);
+  putchar('_');
+  putchar('p');
+  putchar('u');
+  putchar('t');
+  putchar('c');
+  putchar('h');
+  putchar('a');
+  putchar('r');
+  putchar('\n');
+  
+  return 0;
 }
