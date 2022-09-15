@@ -4,7 +4,7 @@
  * _islower - checks for lower case
  *
  * Return: (0) success
- * @c: an alphabet
+ * @i: an alphabet
  */
 int _islower(int i)
 {
