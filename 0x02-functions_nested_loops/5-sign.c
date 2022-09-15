@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- *
- * _sign - prints the sign of a number
+ * print_sign - prints the sign of a number
  * @n: integar
  * Return: (1), (-1) and (0)
  */
