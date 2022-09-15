@@ -2,9 +2,7 @@
 /**
  *
  * _sign - prints the sign of a number
- *
  * @n: integar
- *
  * Return: (1), (-1) and (0)
  */
 int print_sign(int n)
