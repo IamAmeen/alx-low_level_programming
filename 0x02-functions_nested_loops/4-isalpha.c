@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * _isalpha - program to print 1 if c is a letter
- * 
+ *
  * @c: an alphabet
- * 
+ *
  * Return: (0)
  */
 int _isalpha(int c)
