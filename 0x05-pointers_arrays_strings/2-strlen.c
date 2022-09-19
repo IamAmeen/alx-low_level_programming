@@ -2,9 +2,10 @@
 /**
  * _strlen : returns the lenght of a string
  * @s: integer
- * return: 
+ * return: count
  */
 int _strlen(char *s)
+
 {
 	int count = 0;
 	while (*(s + count) != '\0')
